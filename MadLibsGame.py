@@ -7,3 +7,7 @@ print(plural_noun + " are blue")
 print("I love " + celebrity)
 
 
+
+
+
+

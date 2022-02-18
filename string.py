@@ -17,3 +17,7 @@ print(a.index("d"))                         # finding out where letter "d" is
 print(a.replace("Real", "Atletico"))        # replacing "Real" with "Atletico"
 
 print([a.index("R"), a.index("r")])
+
+
+print("It is created only for Git Practice only")
+
